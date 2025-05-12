@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1747058696020" clover="3.2.0">
+  <project timestamp="1747058696020" name="All files">
+    <metrics statements="19" coveredstatements="11" conditionals="14" coveredconditionals="6" methods="2" coveredmethods="2" elements="35" coveredelements="19" complexity="0" loc="19" ncloc="19" packages="1" files="2" classes="2"/>
+    <file name="fizzbuzzIf.js" path="C:\Users\Lenovo\Documents\5.Hafta javaScript\FizzBuzz Test Projesi\fizzbuzz-Gamze-06\src\fizzbuzzIf.js">
+      <metrics statements="9" coveredstatements="6" conditionals="8" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="4" count="50" type="stmt"/>
+      <line num="6" count="50" type="cond" truecount="2" falsecount="2"/>
+      <line num="7" count="0" type="stmt"/>
+      <line num="8" count="50" type="cond" truecount="1" falsecount="1"/>
+      <line num="9" count="0" type="stmt"/>
+      <line num="10" count="50" type="cond" truecount="1" falsecount="1"/>
+      <line num="11" count="50" type="stmt"/>
+      <line num="13" count="0" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+    </file>
+    <file name="fizzbuzzSwitch.js" path="C:\Users\Lenovo\Documents\5.Hafta javaScript\FizzBuzz Test Projesi\fizzbuzz-Gamze-06\src\fizzbuzzSwitch.js">
+      <metrics statements="10" coveredstatements="5" conditionals="6" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="3" count="4" type="stmt"/>
+      <line num="5" count="4" type="cond" truecount="1" falsecount="3"/>
+      <line num="7" count="0" type="stmt"/>
+      <line num="8" count="0" type="stmt"/>
+      <line num="11" count="0" type="stmt"/>
+      <line num="12" count="0" type="stmt"/>
+      <line num="15" count="4" type="stmt"/>
+      <line num="16" count="4" type="stmt"/>
+      <line num="19" count="0" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
